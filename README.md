@@ -1,6 +1,6 @@
 # The-Activity-Recognition-from-Single-Chest-Mounted-Accelerometer-dataset
 The Activity Recognition from Single Chest-Mounted Accelerometer dataset
-The Activity Recognition from Single Chest-Mounted Accelerometer dataset mainly comprises of uncalibrated accelerometer data mounted on 15 respondents(users). The experiment basically analyses 7 activities performed by each respondent. The dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer. The activities in the dataset are codified by numbers and following are the information of the numbers assigned to each of the activity:
+The Activity Recognition from Single Chest-Mounted Accelerometer dataset mainly comprises of uncalibrated accelerometer data mounted on 15 respondents(users). The experiment basically analyses 7 activities performed by each respondent. The dataset can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/00287/Activity%20Recognition%20from%20Single%20Chest-Mounted%20Accelerometer.zip. The activities in the dataset are codified by numbers and following are the information of the numbers assigned to each of the activity:
 
 Working at computer is codified as 1
 Standing up, Walking and going updown stairs is codified as 2
